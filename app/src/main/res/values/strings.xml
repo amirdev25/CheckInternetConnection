@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Check Connection</string>
+    <string name="try_again">Try again</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next"><![CDATA[next ->]]></string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="previous"><![CDATA[<- previous]]></string>
+</resources>

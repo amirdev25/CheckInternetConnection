@@ -16,7 +16,7 @@ object CheckConnection : LiveData<Boolean>() {
     fun init(context: Context) {
         this.context = context
     }
-
+//ok_repo 
     private fun prepareNetwork(context: Context) {
         val intentFilter = IntentFilter()
         intentFilter.addAction(ConnectivityManager.CONNECTIVITY_ACTION)
